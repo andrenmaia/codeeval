@@ -1,4 +1,4 @@
-package br.com.anmaia.StringsAndArrows;
+package br.com.anmaia.stringsAndArrows;
 
 
 import java.io.BufferedReader;

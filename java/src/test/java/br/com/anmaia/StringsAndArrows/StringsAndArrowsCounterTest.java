@@ -1,6 +1,5 @@
-package br.com.anmaia.StringsAndArrows;
+package br.com.anmaia.stringsAndArrows;
 
-import br.com.anmaia.StringsAndArrows.StringsAndArrowsCounter;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
