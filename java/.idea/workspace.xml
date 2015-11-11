@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f991bdb-d603-4630-9757-e6f175aba58a" name="Default" comment="">
+    <list default="true" id="1f991bdb-d603-4630-9757-e6f175aba58a" name="Default" comment="Get file path from args to StringsAndArrows problem.">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/br/com/anmaia/maxSubarrayProblems/Main.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/br/com/anmaia/maxSubarrayProblems/MaxRangeSumTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/br/com/anmaia/maxSubarrayProblems/MaxRangeSum_186.java" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/br/com/anmaia/maxSubarrayProblems/MaxRangeSum_186Test.java" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/br/com/anmaia/maxSubarrayProblems/MaxRangeSum_186.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/br/com/anmaia/maxSubarrayProblems/MaxRangeSum_186Test.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/br/com/anmaia/StringsAndArrows/Main.class" afterPath="$PROJECT_DIR$/target/classes/br/com/anmaia/StringsAndArrows/Main.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/br/com/anmaia/maxSubarrayProblems/Main.class" afterPath="$PROJECT_DIR$/target/classes/br/com/anmaia/maxSubarrayProblems/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/br/com/anmaia/StringsAndArrows/StringsAndArrowsCounter.class" afterPath="$PROJECT_DIR$/target/classes/br/com/anmaia/StringsAndArrows/StringsAndArrowsCounter.class" />
     </list>
     <ignored path="codeeval.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -67,6 +64,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="i" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
@@ -790,7 +792,25 @@
       <option name="project" value="LOCAL" />
       <updated>1447210514741</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Remove unnecessary files">
+      <created>1447210790195</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1447210790195</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Get file path from args to StringsAndArrows problem.">
+      <created>1447210894125</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1447210894125</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Get file path from args to StringsAndArrows problem.">
+      <created>1447210917532</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1447210917532</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -828,7 +848,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update .gitignore for java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update .gitignore for java" />
+    <MESSAGE value="Remove unnecessary files" />
+    <MESSAGE value="Get file path from args to StringsAndArrows problem." />
+    <option name="LAST_COMMIT_MESSAGE" value="Get file path from args to StringsAndArrows problem." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
